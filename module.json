@@ -4,6 +4,7 @@
   "title": "Legends of Arxanum – Dark Fantasy Sheet (SWB)",
   "description": "Dark Fantasy UI & UX für Simple Worldbuilding Character Sheets (Forge-kompatibel)",
   "version": "0.1.0",
+
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
 
@@ -20,6 +21,6 @@
     "scripts/sheet-hooks.js"
   ],
 
-  "download": "https://github.com/tom-biebl/loa-foundry-style-module/releases/download/v0.2.0/loa-foundry-style-module.zip",
-  "manifest": "https://raw.githubusercontent.com/tom-biebl/loa-foundry-style-module/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/tom-biebl/loa-foundry-style-module/main/module.json",
+  "download": "https://github.com/tom-biebl/loa-foundry-style-module/archive/refs/heads/main.zip"
 }
