@@ -6,15 +6,20 @@
   "version": "0.1.0",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
+
   "authors": [
     {
       "name": "LoA"
     }
   ],
+
   "styles": [
     "styles/dark-fantasy-sheet.css"
   ],
   "scripts": [
     "scripts/sheet-hooks.js"
-  ]
+  ],
+
+  "download": "https://github.com/tom-biebl/loa-foundry-style-module/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/tom-biebl/loa-foundry-style-module/main/module.json"
 }
