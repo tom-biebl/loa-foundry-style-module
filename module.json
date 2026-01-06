@@ -1,0 +1,20 @@
+{
+  "id": "loa-foundry-style-module",
+  "name": "loa-foundry-style-module",
+  "title": "Legends of Arxanum – Dark Fantasy Sheet (SWB)",
+  "description": "Dark Fantasy UI & UX für Simple Worldbuilding Character Sheets (Forge-kompatibel)",
+  "version": "0.1.0",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "authors": [
+    {
+      "name": "LoA"
+    }
+  ],
+  "styles": [
+    "styles/dark-fantasy-sheet.css"
+  ],
+  "scripts": [
+    "scripts/sheet-hooks.js"
+  ]
+}
