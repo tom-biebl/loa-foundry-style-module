@@ -20,6 +20,6 @@
     "scripts/sheet-hooks.js"
   ],
 
-  "download": "https://github.com/tom-biebl/loa-foundry-style-module/archive/refs/heads/main.zip",
+  "download": "https://github.com/tom-biebl/loa-foundry-style-module/releases/download/v0.2.0/loa-foundry-style-module.zip",
   "manifest": "https://raw.githubusercontent.com/tom-biebl/loa-foundry-style-module/main/module.json"
 }
